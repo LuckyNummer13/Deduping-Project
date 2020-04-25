@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Apr  4 11:07:27 2020
 
-@author: X218102
-"""
 
 
 from __future__ import print_function, division
